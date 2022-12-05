@@ -11,7 +11,7 @@
 - :vhs: Atualmente estou aprendendo muito sobre programação,fazendo vários projetos como ping pong no Scrath, realizando vários trabalhos sobre o JavaScript, sobre WorldWall, etc. :vhs:
 
 
-- :computer: Estou procurando colaborar em programaçoẽs, ajudando/aprendendo a fazer certos ajustes no servidor do discord com meu namorado (ele me ensia certas funçoẽs que tenho difículdade de entender,me ensina comandos que facilitam a caminhada para o que quero criar,etc). :computer:
+- :computer: Estou procurando colaborar em programaçoẽs, ajudando/aprendendo a fazer certos ajustes no servidor do discord. :computer:
 
 
 - :microphone: Estou procurando ajuda com questoẽs de trabalho, quero trabalhar com algo que tenho orgulho e gosto de fazer. :microphone:
@@ -27,5 +27,5 @@
 
 
 
-- :hearts: :ring: Curiosidade: gosto muito de cantar, de pssar horas com meu namoradinho :> e de assistir rpg ( pra você que não sabe o que é, RPG é uma sigla em inglês que pode ser traduzida como “Jogo de Interpretação de Papéis” ou “Jogo de Interpretação de Personagens”. Nele um grupo de amigos se reúne para construir uma história, como se fosse um teatro de improviso.) :hearts: :ring:
+- :hearts: :ring: Curiosidade: gosto muito de cantar, de passar horas com meus amiguinhos :> e de assistir rpg ( pra você que não sabe o que é, RPG é uma sigla em inglês que pode ser traduzida como “Jogo de Interpretação de Papéis” ou “Jogo de Interpretação de Personagens”. Nele um grupo de amigos se reúne para construir uma história, como se fosse um teatro de improviso.) :hearts: :ring:
 
